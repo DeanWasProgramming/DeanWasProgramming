@@ -1,13 +1,14 @@
-### Hello there 👋
-
-- 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: JavaScript from a course on Udemy
-- 👯 I’m looking to collaborate on: ...
-- 🤔 I’m looking for help with: machine learning with any programming language (I prefer Java/Python but C++ lol)
-- 💬 Ask me about: Java things
-- 📫 How to reach me: through Disccord, here is my Discord username, Dean#6052
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+# Hi there 👋
+Welcome to my GitHub profile 😀
+- 🌱 I’m currently learning **JavaScript from a course on Udemy**
+- 🤔 I’m looking for help with **machine learning with any programming language (I prefer Java/Python but C++ lol)**
+- 💬 Ask me about **anything Java related**
+- 📫 How to reach me:
+  - On Discord: **Dean#6052**
+- 😄 Pronouns: **he/him**
+# Stats
+![DigitalDean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeanWasProgramming&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![DigitalDean's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeanWasProgramming)
 
 <!--
 **DeanWasProgramming/DeanWasProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
