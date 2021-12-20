@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Dean, known as DigitalDean or DeanWasProgramming, welcome to my GitHub profile! 😀
+My name is Dean, as known as DigitalDean, welcome to my GitHub profile! 😀
 
 ![DigitalDean06's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigitalDean06&count_private=true&show_icons=true&theme=dark)
 - 🌱 I’m currently learning **JavaScript from a course on Udemy**
